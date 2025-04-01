@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "https://via.placeholder.com/150",
+      "description": "Software Engineer",
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    }
+  ]
+}
